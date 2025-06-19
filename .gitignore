@@ -1,2 +1,4 @@
 News-_dataset
 News-_dataset.zip
+__pycache__/
+*.pyc
